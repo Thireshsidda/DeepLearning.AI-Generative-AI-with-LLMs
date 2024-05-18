@@ -51,5 +51,10 @@ Reinforcement learning and LLM-powered applications
 
 [Week 3 Quiz](https://github.com/alankarmisra/coursera-Generative-AI-with-LLMs/blob/main/Week-3/Week-3_Quiz.md)
 
-## Certifications
-[Certification](https://coursera.org/share/875547f5eacc53a64965618f7bc5482d) for Generative AI with LLMs.
+
+## Author
+
+👤 **Thiresh Sidda**
+
+* LinkedIn: [@ThireshSidda](https://www.linkedin.com/in/thiresh-sidda)
+* GitHub: [@ThireshSidda](https://github.com/Thireshsidda)
