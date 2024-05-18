@@ -1,4 +1,13 @@
 # [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
+
+## My course completion Certificate 
+</br>
+
+![](Generative-AI-with-LLMs-Coursera.png)
+
+---
+
+
 In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
 
 By taking this course, you'll learn to:
